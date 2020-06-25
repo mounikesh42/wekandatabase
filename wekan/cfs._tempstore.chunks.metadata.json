@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"wekan.cfs._tempstore.chunks"}],"uuid":"90a8c474f81944e09e4bf509e5053462"}

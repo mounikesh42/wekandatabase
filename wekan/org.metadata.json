@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"wekan.org"},{"v":{"$numberInt":"2"},"key":{"name":{"$numberInt":"-1"}},"name":"name_-1","ns":"wekan.org"}],"uuid":"fdd4e7946f144a008ddc9b4900b4d911"}

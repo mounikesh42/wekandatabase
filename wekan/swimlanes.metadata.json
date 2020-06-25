@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"wekan.swimlanes"},{"v":{"$numberInt":"2"},"key":{"modifiedAt":{"$numberInt":"-1"}},"name":"modifiedAt_-1","ns":"wekan.swimlanes"},{"v":{"$numberInt":"2"},"key":{"boardId":{"$numberInt":"1"}},"name":"boardId_1","ns":"wekan.swimlanes"}],"uuid":"aec288671ace46ffadfc5dc9ded1b3c6"}

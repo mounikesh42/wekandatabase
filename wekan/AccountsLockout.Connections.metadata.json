@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"wekan.AccountsLockout.Connections"}],"uuid":"96454f7dcdc9420398decdb6ad64da0c"}

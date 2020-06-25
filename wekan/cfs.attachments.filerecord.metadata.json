@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"wekan.cfs.attachments.filerecord"},{"v":{"$numberInt":"2"},"key":{"cardId":{"$numberInt":"1"}},"name":"cardId_1","ns":"wekan.cfs.attachments.filerecord"}],"uuid":"f6bdcb28cbf04d7ab0d7dfdc3922e7c0"}
